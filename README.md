@@ -22,7 +22,7 @@
 
 ## Screenshot
 
-> *(tambahkan screenshot di sini)*
+> *No Screenshot*
 
 ---
 
