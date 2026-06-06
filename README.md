@@ -12,7 +12,7 @@
 ## Fitur
 
 - **Single-instance** — buka dua kali? window yang sudah ada langsung difokuskan
-- **Notifikasi native** — pesan masuk muncul sebagai notifikasi desktop lengkap dengan foto profil pengirim
+- **Notifikasi native** — pesan masuk muncul sebagai notifikasi desktop lengkap dengan foto profil pengirim(kinda buggy)
 - **Hardware video decode** — VA-API via Mesa/radeonsi untuk efisiensi CPU
 - **Link eksternal aman** — link yang diklik di dalam chat terbuka di browser sistem, bukan di dalam app
 - **Auto-recovery** — web process crash langsung reload otomatis
