@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Chawa
+GenericName=WhatsApp Client
+Comment=Lightweight WhatsApp Web client for Linux
+Exec=chawa %U
+Icon=chawa
+Terminal=false
+Categories=Network;InstantMessaging;
+Keywords=WhatsApp;chat;messaging;
+StartupWMClass=chawa
+MimeType=x-scheme-handler/whatsapp;
