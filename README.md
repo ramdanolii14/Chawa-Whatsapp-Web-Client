@@ -31,7 +31,7 @@
 ### Arch Linux (AUR) — Direkomendasikan
 
 ```bash
-yay -S chawa
+yay -S chawa-whatsapp-web-client
 ```
 
 ### Manual (dari source)
